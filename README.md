@@ -25,4 +25,4 @@ Beyond simple recommendations, the platform includes a real-time analytics loop 
 | **Frontend** | Streamlit | Rapid, interactive Python web application framework for data tools |
 | **Backend** | FastAPI, Uvicorn | Asynchronous Python REST API framework handling ML inference |
 | **Database** | PostgreSQL / SQLite | Relational database managed via SQLAlchemy ORM (`models.py`) |
-| **Machine Learning** | Scikit-Learn, Pandas, NumPy | Data manipulation and Vector distance calculations (Cosine Similarity) |
+| **Machine Learning** | Scikit-Learn, Pandas, NumPy | Data manipulation and Vector distance calculations (Cosine Similarity) | 
